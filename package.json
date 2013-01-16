@@ -1,0 +1,24 @@
+{
+  "author": "Pedro Santos",
+  "name": "challengerz-api-js",
+  "description": "Javascript API for Challengerz.net",
+  "version": "0.1.0",
+  "homepage": "http://www.challengerz.net",
+  "preferGlobal": "false",
+  "main": "lib/challengerz.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:donbonifacio/challengerz-api-js.git"
+  },
+
+  "dependencies": {
+    "underscore": "1.4.2"
+  },
+
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+
+}
